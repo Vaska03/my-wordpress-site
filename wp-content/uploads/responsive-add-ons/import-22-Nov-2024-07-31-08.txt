@@ -1,0 +1,133 @@
+
+Started Import Process
+# System Details: 
+Debug Mode 		: Disabled
+Operating System 	: WINNT
+Software 		: apache2458win64openssl313php8212
+MySQL version 		: 10.4.32
+XML Reader 		: Yes
+PHP Version 		: 8.2.12
+PHP Max Input Vars 	: 1000
+PHP Max Post Size 	: 40M
+PHP Extension GD 	: No
+PHP Max Execution Time 	: 120
+Max Upload Size 	: 40 MB
+Memory Limit 		: Current memory limit 40M. We recommend setting memory to at least 64M.
+Timezone 		: 0
+
+-----
+
+Importing Started! - 07:37:05 UTC
+---
+
+Deleted customizer Settings {"featured_images":false,"breadcrumb":false,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""}
+Deleted - Site Options []
+Inserted WP Form 25
+Importing from XML https://ccreadysites.cyberchimps.com/wp-content/uploads/sites/10/wxr.xml
+Inserted - Term 4 - {"term_id":4,"name":"Menu1","slug":"menu1","term_group":0,"term_taxonomy_id":4,"taxonomy":"nav_menu","description":"","parent":0,"count":0,"filter":"raw"}
+Inserted - Post 126 - attachment - interior-design-logo
+Inserted - Post 128 - attachment - interior-design-banner
+Inserted - Post 129 - attachment - interior-design1
+Inserted - Post 130 - attachment - interior-design2
+Inserted - Post 131 - attachment - interior-design3
+Inserted - Post 132 - attachment - interiorportfolio
+Inserted - Post 133 - attachment - interiorportfolio1
+Inserted - Post 134 - attachment - interiorportfolio2
+Inserted - Post 135 - attachment - interiorportfolio4
+Inserted - Post 136 - attachment - interiorportfolio5
+Inserted - Post 137 - attachment - interior-design-testi
+Inserted - Post 138 - attachment - int-test
+Inserted - Post 143 - attachment - about-interior
+Inserted - Post 146 - attachment - about1-interior
+Inserted - Post 147 - attachment - int-about-logo
+Inserted - Post 148 - attachment - interior-design-logo
+Inserted - Post 150 - attachment - contact-interior
+Inserted - Post 155 - attachment - int-blog
+Inserted - Post 156 - attachment - int-blog1
+Inserted - Post 157 - attachment - int-blog2
+Inserted - Post 158 - attachment - int-blog3
+Inserted - Post 233 - attachment - yoga-jane-doe
+Inserted - Post 234 - attachment - yogarichard-roe
+Inserted - Post 251 - attachment - interior-logo
+Inserted - Post 253 - attachment - interior-logo1
+Inserted - Post 255 - attachment - interior-logo11
+Inserted - Post 314 - attachment - pexels-pixabay-53577
+Inserted - Post 315 - attachment - pexels-jean-van-der-meulen-1457844
+Inserted - Post 316 - attachment - pexels-huy-phan-2826787
+Inserted - Post 317 - attachment - pexels-vecislavas-popa-1643384
+Inserted - Post 318 - attachment - pexels-pixabay-462235
+Inserted - Post 319 - attachment - pexels-vecislavas-popa-1643383
+Inserted - Post 320 - attachment - pexels-ksenia-chernaya-8753032
+Inserted - Post 321 - attachment - pexels-rachel-claire-4825713
+Inserted - Post 322 - attachment - pexels-alex-qian-2343465
+Inserted - Post 324 - attachment - pexels-maksim-goncharenok-4352247
+Inserted - Post 325 - attachment - pexels-jean-van-der-meulen-1457847
+Inserted - Post 331 - attachment - How to add Breadcrumb Navigation to your WordPress website (1)
+Inserted - Post 428 - attachment - logo
+Inserted - Post 446 - attachment - hero-image
+Inserted - Post 457 - attachment - 2nd section image
+Inserted - Post 459 - attachment - icon (3)
+Inserted - Post 463 - attachment - icon (5)
+Inserted - Post 464 - attachment - icon (1)
+Inserted - Post 465 - attachment - icon (4)
+Inserted - Post 466 - attachment - icon (6)
+Inserted - Post 467 - attachment - icon (2)
+Inserted - Post 480 - attachment - sec-image
+Inserted - Post 482 - attachment - bg
+Inserted - Post 501 - attachment - residential-image-1
+Inserted - Post 502 - attachment - office-image-1
+Inserted - Post 507 - attachment - commercial-image
+Inserted - Post 517 - attachment - image-2
+Inserted - Post 518 - attachment - image
+Inserted - Post 537 - attachment - image-3
+Inserted - Post 539 - attachment - bg image
+Inserted - Post 549 - attachment - persona-1
+Inserted - Post 550 - attachment - persona-2
+Inserted - Post 551 - attachment - persona-3
+Inserted - Post 601 - attachment - services hero image
+Inserted - Post 602 - nav_menu_item - 
+Inserted - Post 603 - nav_menu_item - 
+Inserted - Post 604 - nav_menu_item - 
+Inserted - Post 605 - nav_menu_item - 
+Inserted - Post 276 - elementor_library - Default Kit
+Inserted - Post 303 - nav_menu_item - Pages
+Inserted - Post 304 - nav_menu_item - 
+Inserted - Post 305 - nav_menu_item - 
+Inserted - Post 420 - nav_menu_item - 
+Inserted - Post 421 - nav_menu_item - 
+Inserted - Post 422 - nav_menu_item - 
+Inserted - Post 423 - nav_menu_item - 
+Inserted - Post 424 - nav_menu_item - 
+Inserted - Post 427 - nav_menu_item - 
+Inserted - Post 611 - attachment - Gallery-6
+Inserted - Post 612 - attachment - Gallery-1
+Inserted - Post 613 - attachment - Gallery-2
+Inserted - Post 614 - attachment - Gallery-3
+Inserted - Post 615 - attachment - Gallery-4
+Inserted - Post 616 - attachment - Gallery-5
+Inserted - Post 617 - page - Privacy Policy
+Inserted - Post 618 - page - Home
+Inserted - Post 619 - page - Blog
+Inserted - Post 620 - page - About
+Inserted - Post 621 - page - Contact
+Inserted - Post 116 - post - Design Ideas for Your Work Space
+Inserted - Post 119 - post - Style Your Bedroom With Floating Bed Designs
+Inserted - Post 122 - post - Uplift Your Living Room With These Designing Tips
+Inserted - Post 125 - post - Vibrant Coworking Place Designs
+Inserted - Post 299 - page - Gallery
+Inserted - Post 301 - page - 404 Page
+Inserted - Post 409 - page - Home 2
+Inserted - Post 411 - page - About 2
+Inserted - Post 413 - page - FAQ
+Inserted - Post 415 - page - Services
+Inserted - Post 417 - page - Service Details
+Inserted - Post 425 - page - Projects
+Imported Customizer Settings {"theme_mods_responsive":{"0":false,"nav_menu_locations":{"header-menu":2},"custom_css_post_id":-1,"custom_logo":428,"res_hide_site_title":"1","res_hide_tagline":"1","link-color":"#ed1b24","link-hover-color":"#ed000b","responsive_blog_entry_elements_positioning":["featured_image","title","meta","content"],"responsive_main_container_width":"1140","responsive_fullwidth_header_color":"#ffffff","button-color":"#ed1b24","button-hover-color":"#d60039","label-color":"#333333","body_typography":{"font-family":"'Poppins', sans-serif"},"headings_typography":{"font-family":"'Poppins', sans-serif"},"responsive_sidebar_background_color":"#f7f7f7","background_color":"ffffff","responsive_menu_background_colorpicker":"#ffffff","responsive_menu_background_colorpicker_2":"#ffffff","menu_typography":{"font-family":"'Poppins', sans-serif","font-weight":"500","font-size":"14px"},"header_layout_options":"header-logo-left","responsive_header_border_color":"#eaeaea","responsive_menu_text_colorpicker":"#333333","responsive_menu_text_hover_colorpicker":"#ed1b24","responsive_menu_active_colorpicker":"#ffffff","responsive_menu_active_text_colorpicker":"#ed1b24","responsive_menu_item_hover_colorpicker":"#ffffff","responsive_menu_border_color":"#ffffff","responsive_container_background_color":"#f2f2f2","blog_layout_option":"fullwidth-content","single_layout_option":"fullwidth-content","responsive_blog_entries_top_padding":"0","responsive_blog_entries_left_padding":"30","responsive_blog_entries_bottom_padding":"30","responsive_blog_entries_right_padding":"30","responsive_blog_single_elements_positioning":["featured_image","title","meta","content"],"page_layout_option":"fullwidth-content","responsive_single_post_background_color":"#f7f7f7","responsive_single_blog_top_padding":"20","responsive_single_blog_left_padding":"20","responsive_single_blog_bottom_padding":"20","responsive_single_blog_right_padding":"20","responsive_hide_tagline":"1","responsive_hide_title":"1","responsive_button_color":"#ed1b24","responsive_button_hover_color":"#d60039","responsive_label_color":"#333333","responsive_header_menu_background_color":"#ffffff","responsive_header_active_menu_background_color":"#ffffff","responsive_header_menu_toggle_color":"#333333","responsive_header_menu_link_color":"#333333","responsive_header_menu_border_color":"#ffffff","responsive_header_menu_link_hover_color":"#ed1b24","responsive_header_background_color":"#ffffff","responsive_header_sub_menu_background_color":"#ffffff","responsive_header_sub_menu_link_color":"#333333","responsive_header_sub_menu_link_hover_color":"#ed1b24","responsive_box_background_color":"#f2f2f2","responsive_link_color":"#ed1b24","responsive_link_hover_color":"#ed000b","responsive_header_alignment":"left","responsive_container_width":"1140","responsive_blog_sidebar_position":"no","responsive_blog_content_width":100,"responsive_blog_entry_columns":2,"responsive_blog_entry_display_masonry":false,"header_menu_typography":{"font-family":"'Poppins', sans-serif","font-weight":"500","font-size":"14px"},"heading_h1_typography":{"font-family":"'Poppins', sans-serif"},"heading_h2_typography":{"font-family":"'Poppins', sans-serif"},"heading_h3_typography":{"font-family":"'Poppins', sans-serif"},"heading_h4_typography":{"font-family":"'Poppins', sans-serif"},"heading_h5_typography":{"font-family":"'Poppins', sans-serif"},"heading_h6_typography":{"font-family":"'Poppins', sans-serif"},"responsive_inputs_top_padding":"6","responsive_inputs_left_padding":"6","responsive_inputs_bottom_padding":"6","responsive_inputs_right_padding":"6","responsive_buttons_top_padding":"12","responsive_buttons_left_padding":"24","responsive_buttons_bottom_padding":"12","responsive_buttons_right_padding":"24","responsive_footer_links_color":"#ffffff","responsive_mobile_menu_breakpoint":"840","responsive_inputs_radius":"05","responsive_buttons_border_width":"0","responsive_buttons_radius":"05","responsive_site_background_color":"ffffff","responsive_inputs_border_width_top_border":false,"header_menu_typography_font_size_value":"14"},"responsive_settings":{"featured_images":0,"breadcrumb":1,"cta_button":0,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"blog-2-col","site_layout_option":"fullwidth-content","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":false,"sticky-header":false,"googleplus_uid":"","stumbleupon_uid":"","copyright_textbox":"Responsive . All Rights Reserved"},"custom_css":""}
+Old Responsive Theme Options {"featured_images":false,"breadcrumb":false,"cta_button":false,"minified_css":false,"front_page":0,"home_headline":"HAPPINESS","home_subheadline":"IS A WARM CUP","home_content_area":"Your title, subtitle and this very content is editable from Theme Option. Call to Action button and its destination link as well. Image on your right can be an image or even YouTube video if you like.","cta_text":"Call to Action","cta_url":"#nogo","featured_content":null,"testimonials":0,"testimonial_title":null,"google_site_verification":"","bing_site_verification":"","yahoo_site_verification":"","site_statistics_tracker":"","twitter_uid":"","facebook_uid":"","linkedin_uid":"","youtube_uid":"","stumble_uid":"","rss_uid":"","google_plus_uid":"","instagram_uid":"","pinterest_uid":"","yelp_uid":"","vimeo_uid":"","foursquare_uid":"","email_uid":"","testimonial_val":null,"teammember1":null,"teammember2":null,"teammember3":null,"feature1":null,"feature2":null,"feature3":null,"responsive_inline_css":"","responsive_inline_js_head":"","responsive_inline_js_footer":"","responsive_inline_css_js_footer":"","static_page_layout_default":"default","single_post_layout_default":"default","blog_posts_index_layout_default":"default","site_layout_option":"boxed","button_style":"default","home-widgets":false,"site_footer_option":"footer-3-col","res_hide_site_title":false,"res_hide_tagline":true,"stumbleupon_uid":""}
+Backup - Responsive Theme Mods {"0":false,"responsive_inputs_border_width_top_border":false,"nav_menu_locations":[],"responsive_container_width":1140}
+Imported - Widgets {"main-sidebar":{"search-2":{"title":""},"recent-posts-2":{"title":"","number":5},"archives-2":{"title":"","count":0,"dropdown":0},"calendar-3":[]}}
+Imported - Site Options {"custom_logo":"428","show_on_front":"page","page_on_front":"Home","page_for_posts":"Blog","nav_menu_locations":false,"wpforms_settings":{"modern-markup":"0","modern-markup-is-set":true},"elementor_container_width":"1140","elementor_cpt_support":["post","page"],"elementor_css_print_method":"internal","elementor_default_generic_fonts":"Sans-serif","elementor_disable_color_schemes":"yes","elementor_disable_typography_schemes":"yes","elementor_editor_break_lines":"","elementor_exclude_user_roles":false,"elementor_global_image_lightbox":"yes","elementor_page_title_selector":"","elementor_scheme_color":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70"},"elementor_scheme_color-picker":{"1":"#6ec1e4","2":"#54595f","3":"#7a7a7a","4":"#61ce70","5":"#4054b2","6":"#23a455","7":"#000","8":"#fff"},"elementor_scheme_typography":{"1":{"font_family":"Roboto","font_weight":"600"},"2":{"font_family":"Roboto Slab","font_weight":"400"},"3":{"font_family":"Roboto","font_weight":"400"},"4":{"font_family":"Roboto","font_weight":"500"}},"elementor_space_between_widgets":"","elementor_stretched_section_container":""}
+Complete 
+Batch Process Started!
+---- Processing WordPress Posts / Pages - for "Gutenberg" ----
+Batch Process Complete!
